@@ -57,7 +57,7 @@
             android:layout_height="wrap_content"
             android:text=" RESULT "
             android:textSize="24sp"
-            android:layout_margin="20dp"
+            android:layout_margin="50dp"
             android:gravity="center"/>
 
 
